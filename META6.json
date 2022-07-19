@@ -1,0 +1,24 @@
+{
+  "authors": [
+    "Fernando Oliveira"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "blah blah blah",
+  "license": "Artistic-2.0",
+  "name": "Functional",
+  "perl": "6.d",
+  "provides": {
+    "Functional": "lib/Functional.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
